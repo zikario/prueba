@@ -1,0 +1,29 @@
+html{
+  background: #d3d3d3;
+}
+h1{
+  margin-left: 30px;
+  color: #ee7600;
+}
+body{
+  background: #ffffff;
+  width: 500px;
+}
+img{
+  margin-left: 90px;
+}
+#link{
+ font-size: 25px;
+  text-align: center;
+  margin-top: 15px;
+}
+div{
+  text-align: justify;
+}
+h6{
+  color: lightgray;
+}
+hr{
+  width: 450px;
+  color: #d3d3d3;
+}
